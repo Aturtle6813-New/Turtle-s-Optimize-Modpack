@@ -1,0 +1,13 @@
+name = "Redstone Display Overlaid"
+filename = "解压(Decompression).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4PRyIWGr/versions/kd1JnC84/%E8%A7%A3%E5%8E%8B%28Decompression%29.zip"
+hash-format = "sha512"
+hash = "ba2022a20b52c077361213dbf71e297ca3bfe26f85795de1a3352db1ed23eb22880ae0c3e04cbacdab97dc535b3b013a41225dd2b71c8a82b3bb3ff93eb60054"
+
+[update]
+[update.modrinth]
+mod-id = "4PRyIWGr"
+version = "kd1JnC84"

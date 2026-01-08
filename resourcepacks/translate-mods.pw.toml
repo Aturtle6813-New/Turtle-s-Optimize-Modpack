@@ -1,0 +1,13 @@
+name = "Translate Mods"
+filename = "VN Translate Mods 1.8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wr1RQ7IX/versions/AQ4Eh8O8/VN%20Translate%20Mods%201.8.zip"
+hash-format = "sha512"
+hash = "a7927600c39814ad07c660fe76144d54a51b5331c0d81b567cba64db3cee6b048a3cc6d87d5b81cdc6abf1c9738aaef416b1d12391b0fc7eb0f3ba2b2e70f182"
+
+[update]
+[update.modrinth]
+mod-id = "wr1RQ7IX"
+version = "AQ4Eh8O8"
